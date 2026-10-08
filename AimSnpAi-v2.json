@@ -2,8 +2,10 @@
   "payload": {
     "schema_version": 1,
     "namespace": "soong-aimlock-sniper-v2",
-    "generated_at": "2026-10-08T01:35:15+00:00",
-    "identifiers": []
+    "generated_at": "2026-10-08T06:11:30+00:00",
+    "identifiers": [
+      "ff637b95995939598ed0c418c6f348ad1abd80d966a135292b8e884425bfa69d"
+    ]
   },
-  "signature": "QEoTO49x8tyl7kr/bYlObzmRcAKOMZPa7/CAzqQ/SQBDhjXHreZL1aT8qNoas4lWfCslVuRzn2hks8RzrEZqDA=="
+  "signature": "SsxVHI2lVxmzqeQivG2f8abLN922u+pCdyH+lVvWwfzXvzJlgY6ROHT6LhUYTFZpe3Zn+3iWObSalaC5tK8qAw=="
 }
